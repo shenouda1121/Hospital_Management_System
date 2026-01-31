@@ -67,11 +67,11 @@ Hospital_Management_System/
 
 │
 
-├── hospital.cpp        # Main source code
+├── hospital.cpp                 # Main source code
 
-├── patients.txt        # Patient records (generated at runtime)
+├── patients.txt                 # Patient records (generated at runtime)
 
-├── temp.txt            # Temporary file for update/delete operations
+├── temp.txt                     # Temporary file for update/delete operations
 
 ├── .gitignore
 
