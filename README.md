@@ -1,9 +1,9 @@
-🏥 Hospital Management System (C++)
+🏥 Hospital Management System (C++) :-
 
 This repository contains a console-based Hospital Management System developed in C++ using file handling techniques.
 The system allows efficient management of patient records including insertion, searching, updating, deletion, and persistent storage without using a database.
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
-✨ Key Features
+✨ Key Features :-
 
 1️⃣ Patient Record Management :-
 
