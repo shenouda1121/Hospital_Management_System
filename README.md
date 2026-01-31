@@ -64,6 +64,7 @@ ________________________________________________________________________________
 📂 Project Structure :-
 
 Hospital_Management_System/
+
 │
 
 ├── hospital.cpp        # Main source code
