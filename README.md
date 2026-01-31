@@ -1,2 +1,2 @@
-# Hospital_Management_System-C-
+# Hospital_Management_System
 A simple Hospital Management System developed in C++ using file handling concepts. This project allows managing patient records efficiently without using a database system.
